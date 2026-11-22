@@ -12,9 +12,9 @@ The two volumes, appendix, prefaces and colophon are indexed across the holding 
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。夾注保留圖幅及部分相對位置。訓點逐幅辨層，部分可讀字另記，尚未逐點轉錄。
+47幅逐幅回圖盤點，另讀問答、人名、卷界、照護記錄及刊記，依原圖採用 6 項訂正。覆核為逐幅選讀。未做人類全文雙校、專家審定、同儕審查或準確率量測。夾注保留圖幅及部分相對位置。訓點逐幅辨層，部分可讀字另記，尚未逐點轉錄。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Interlinear notes retain scan references and selected positions. Reading marks are identified on each relevant image, with selected legible marks transcribed.
+All 47 images received a separate inventory and selected readings of dialogue, names, volume boundaries, care records and the colophon. 6 image-supported changes are documented. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. Interlinear notes retain scan references and selected positions. Reading marks are identified on each relevant image, with selected legible marks transcribed.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 

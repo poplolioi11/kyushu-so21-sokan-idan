@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '桑韓醫談（1713 年刊本，九州大學 ソ-21） / Sōkan idan [Medical Conversations between Japan
   and Korea]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu

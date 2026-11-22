@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. All 47 images received a separate inventory and selected readings of dialogue, names, volume boundaries, care records and the colophon. 6 image-supported changes are documented. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>九州大學醫學圖書館 ソ-21（九大 4705820，NIJL 100348068） <ref target="https://hdl.handle.net/2324/4705820">Source catalogue</ref>
@@ -81,7 +81,7 @@
       <div n="4" type="scan" corresp="https://catalog.lib.kyushu-u.ac.jp/image/4705820/canvas/p4">
         <div type="surface" n="right">
           <ab type="body" n="f004-r-c01" xml:id="u-f004-r-c01" xml:lang="lzh">勿見外物至哉此言也可謂能</ab>
-          <ab type="body" n="f004-r-c02" xml:id="u-f004-r-c02" xml:lang="lzh">識醫道者也兒曹繼承者謹之</ab>
+          <ab type="body" n="f004-r-c02" xml:id="u-f004-r-c02" xml:lang="lzh">識醫道者也兒曹繼家志謹之</ab>
           <ab type="body" n="f004-r-c03" xml:id="u-f004-r-c03" xml:lang="lzh">勿怠焉嗚呼家君志於醫之切</ab>
           <ab type="body" n="f004-r-c04" xml:id="u-f004-r-c04" xml:lang="lzh">臻如此生質純樸才能不逮凡</ab>
           <ab type="body" n="f004-r-c05" xml:id="u-f004-r-c05" xml:lang="lzh">庸無足采者猶不至誤治而殺</ab>
@@ -459,7 +459,7 @@
       </div>
       <div n="19" type="scan" corresp="https://catalog.lib.kyushu-u.ac.jp/image/4705820/canvas/p19">
         <div type="surface" n="right">
-          <ab type="body" n="f019-r-c01" xml:id="u-f019-r-c01" xml:lang="lzh">有二其一曰因飮食勞倦有上中焦之陽氣虛</ab>
+          <ab type="body" n="f019-r-c01" xml:id="u-f019-r-c01" xml:lang="lzh">有三其一曰因飮食勞倦有上中焦之陽氣虛</ab>
           <ab type="body" n="f019-r-c02" xml:id="u-f019-r-c02" xml:lang="lzh">為發熱自汗者參耆獨參湯補中益氣湯異功</ab>
           <ab type="body" n="f019-r-c03" xml:id="u-f019-r-c03" xml:lang="lzh">散理中湯十全大補湯之數論以其溫施治溫</ab>
           <ab type="body" n="f019-r-c04" xml:id="u-f019-r-c04" xml:lang="lzh">能除大熱者也未發已發之火眞假疑似之間</ab>
@@ -545,7 +545,7 @@
         <div type="surface" n="right">
           <ab type="body" n="f022-r-c01" xml:id="u-f022-r-c01" xml:lang="lzh">内經曰五藏者皆稟氣於胃胃者五藏之本也</ab>
           <ab type="body" n="f022-r-c02" xml:id="u-f022-r-c02" xml:lang="lzh">又曰眞氣者所受於天與穀氣并而充身也是</ab>
-          <ab type="body" n="f022-r-c03" xml:id="u-f022-r-c03" xml:lang="lzh">以東垣老人補脾補腎之格言出焉龔氏曰人</ab>
+          <ab type="body" n="f022-r-c03" xml:id="u-f022-r-c03" xml:lang="lzh">以東垣老人補腎補脾之格言出焉龔氏曰人</ab>
           <ab type="body" n="f022-r-c04" xml:id="u-f022-r-c04" xml:lang="lzh">之有生不善攝養房勞過度眞陽衰憊坎火不</ab>
           <ab type="body" n="f022-r-c05" xml:id="u-f022-r-c05" xml:lang="lzh">溫不能上蒸脾土沖和失布中州不運是致飮</ab>
           <ab type="body" n="f022-r-c06" xml:id="u-f022-r-c06" xml:lang="lzh">食不進胸膈痞塞不食而脹滿或已食而不消</ab>
@@ -1066,7 +1066,7 @@
           <ab type="body" n="f041-r-c06" xml:id="u-f041-r-c06" xml:lang="lzh">雖然不曉其理也彼常高漢唐卑元明之醫及</ab>
           <ab type="body" n="f041-r-c07" xml:id="u-f041-r-c07" xml:lang="lzh">此時遽爾曰虛證不受補者不治也噫嘻不顧</ab>
           <ab type="body" n="f041-r-c08" xml:id="u-f041-r-c08" xml:lang="lzh">之甚哉</ab>
-          <ab type="question" n="f041-r-c09" xml:id="u-f041-r-c09" xml:lang="lzh">問聞無胃氣者雖參附不能剋化故死是</ab>
+          <ab type="question" n="f041-r-c09" xml:id="u-f041-r-c09" xml:lang="lzh">問僕聞無胃氣者雖參附不能剋化故死是</ab>
           <note type="editorial">夾注 R1233「問」以下刻小「僕」，下接正文「聞」。</note>
           <note type="editorial">問答 R1233另問跨葉，L960「答曰」另起。</note>
           <note type="editorial">訓點 正文側有片假名和返點。</note>
@@ -1089,7 +1089,7 @@
           <ab type="body" n="f042-r-c01" xml:id="u-f042-r-c01" xml:lang="lzh">腎間動氣進而小也是陰陽虛而有火其法可</ab>
           <ab type="body" n="f042-r-c02" xml:id="u-f042-r-c02" xml:lang="lzh">一補陰一補陽而治之故以參术之屬則面</ab>
           <ab type="body" n="f042-r-c03" xml:id="u-f042-r-c03" xml:lang="lzh">赤而耳鳴以熟地麥門五味之屬則停滯于胸</ab>
-          <ab type="body" n="f042-r-c04" xml:id="u-f042-r-c04" xml:lang="lzh">膈予以為此婦必到秋臥床是虛證不受補者</ab>
+          <ab type="body" n="f042-r-c04" xml:id="u-f042-r-c04" xml:lang="lzh">屬予以為此婦必到秋臥床是虛證不受補者</ab>
           <ab type="body" n="f042-r-c05" xml:id="u-f042-r-c05" xml:lang="lzh">也治療十日説其死於親屬而離去到于九月</ab>
           <ab type="body" n="f042-r-c06" xml:id="u-f042-r-c06" xml:lang="lzh">告終又酒色過度之男年踰三十冬間患腰痛</ab>
           <ab type="body" n="f042-r-c07" xml:id="u-f042-r-c07" xml:lang="lzh">以十全大補湯稍安然未全孟春臥牀午前陰</ab>
@@ -1137,7 +1137,7 @@
           <ab type="postface" n="f044-r-c01" xml:id="u-f044-r-c01" xml:lang="lzh">吾黨春圃以治〔疑〕病施治投〔疑〕古人</ab>
           <ab type="postface" n="f044-r-c02" xml:id="u-f044-r-c02" xml:lang="lzh">之確論而為自得質諸朝鮮國</ab>
           <ab type="postface" n="f044-r-c03" xml:id="u-f044-r-c03" xml:lang="lzh">醫官奇斗文有編為一書附錄</ab>
-          <ab type="postface" n="f044-r-c04" xml:id="u-f044-r-c04" xml:lang="lzh">其三子對論者需予其跋予不</ab>
+          <ab type="postface" n="f044-r-c04" xml:id="u-f044-r-c04" xml:lang="lzh">與三子討論者需予其跋予不</ab>
           <ab type="postface" n="f044-r-c05" xml:id="u-f044-r-c05" xml:lang="lzh">知醫則不能以一辭贊其玄妙</ab>
           <ab type="postface" n="f044-r-c06" xml:id="u-f044-r-c06" xml:lang="lzh">其事實於卷末云爾</ab>
           <note type="editorial">跋 右為行草體跋，左 x991 行草跋署日期，x884 y900–1127 作者署名。日期「秌」為火在左、禾在右的字形。</note>

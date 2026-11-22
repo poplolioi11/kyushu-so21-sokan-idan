@@ -1,0 +1,2895 @@
+{
+  "initial_sha256": "638ab59a3eedacc0c6ca2a30d15a2952273b5f49030af1e1994f90541c05a320",
+  "method_zh": "同一固定底本47幅逐幅獨立盤點，辨識欄界與題記、照護段、人名、刊記，比對初稿並以來源圖裁定。第16幅右側靠內窄雙列仍以夾注呈現。訓點只做分層與可辨選錄。",
+  "method_en": "All 47 scans were independently inspected. The review checked the layout and selected passages against the fixed images. The separate narrow double-column text at the inner right leaf of image 16 remains encoded as an interlinear note.",
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "b7c544168a29b1767ed1b31856b984aedc8410d53487ea3623a5a90fc722285a",
+      "layout": "合冊棕封面，左貼長籤，右下有藍框識別籤。右側及下側尺，右另有色卡。",
+      "boundaries": "版框無，書皮上、下邊與裝線全見。",
+      "observation": "左籤上方圈筆及另一枚橢圓朱印僅定位，未定印文。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 0
+        },
+        {
+          "side": "L",
+          "text_column_count": 0
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f001-e01",
+          "location": "左側長題籤中央",
+          "side": null,
+          "column_order": null,
+          "reading": "桑韓醫談",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f001-e02",
+          "location": "內側窄籤下半",
+          "side": null,
+          "column_order": null,
+          "reading": "金六拾圓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f001-e03",
+          "location": "內側窄籤上半",
+          "side": null,
+          "column_order": null,
+          "reading": "（廿八）の一",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f001-e04",
+          "location": "右下藍框籤",
+          "side": null,
+          "column_order": null,
+          "reading": "ソ-21",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f001-e05",
+          "location": "左籤底橫印",
+          "side": null,
+          "column_order": null,
+          "reading": "木內書店",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "image_sha256": "07d745c75887178705b3f62701abe01fcedd337346bd6160962d945f4723a8bc",
+      "layout": "右內封有圖書館條碼貼紙、右下有紅框紙殘片。左為手書序，印記三枚。",
+      "boundaries": "左框上下可見，書口狹條另見序字；左上褐斑，左欄底無截字。",
+      "observation": "左框上方橢圓朱印留待辨全文；序的送假名、返點另層。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 0
+        },
+        {
+          "side": "L",
+          "text_column_count": 6
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f002-e01",
+          "location": "L01欄首",
+          "side": "L",
+          "column_order": 1,
+          "reading": "桑韓醫談序",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f002-e02",
+          "location": "L02上部",
+          "side": "L",
+          "column_order": 2,
+          "reading": "夫醫肇于聖神",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f002-e03",
+          "location": "L05下部",
+          "side": "L",
+          "column_order": 5,
+          "reading": "一家之學則醫道",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f002-e04",
+          "location": "左欄框右線中段印",
+          "side": null,
+          "column_order": null,
+          "reading": "九大泌尿器科圖書印",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f002-e05",
+          "location": "左欄框右線下部印",
+          "side": null,
+          "column_order": null,
+          "reading": "美濃安江氏記",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f002-e06",
+          "location": "右面上方館籤",
+          "side": null,
+          "column_order": null,
+          "reading": "九州大学蔵書",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "image_sha256": "68ba08c406890107f3b81c75329a13d30e396c170b716a02d1bf324b20c360fe",
+      "layout": "兩面同為手寫序，正文旁有密集返點、細假名。墨團左右對應，涉及 R03、R04 與 L03、L04。",
+      "boundaries": "上下黑框兩面可見，右框外狹條一、左框外二，褐斑近上腹下緣。",
+      "observation": "墨團遮損比例須按 R03–R04、L03–L04 各看。關鍵字以可見筆畫為限。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 6
+        },
+        {
+          "side": "L",
+          "text_column_count": 6
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f003-e01",
+          "location": "R01上部",
+          "side": "R",
+          "column_order": 1,
+          "reading": "知命常告予三昆季曰",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f003-e02",
+          "location": "R02中段",
+          "side": "R",
+          "column_order": 2,
+          "reading": "虛實為要我臨病之間",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f003-e03",
+          "location": "L01上部",
+          "side": "L",
+          "column_order": 1,
+          "reading": "三十年",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f003-e04",
+          "location": "L05中段",
+          "side": "L",
+          "column_order": 5,
+          "reading": "冀不以利汚義",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "image_sha256": "cfe2a13eedadb0c2e8860ce048f145c476312769ada00e6ef8f204b2a90289dc",
+      "layout": "手書小序延續，左面引繼家志及朝鮮信使話題，兩面有橙褐斑。",
+      "boundaries": "上下框清可辨，右框近縫處上角淡，外側版心狹欄見序及葉數。",
+      "observation": "L02「以宿于」後地名待覆；細假名與序正文筆勢可分。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 6
+        },
+        {
+          "side": "L",
+          "text_column_count": 6
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f004-e01",
+          "location": "R02中段",
+          "side": "R",
+          "column_order": 2,
+          "reading": "兒曹繼家志",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f004-e02",
+          "location": "R03中段",
+          "side": "R",
+          "column_order": 3,
+          "reading": "嗚呼家君志於醫",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f004-e03",
+          "location": "L01下段",
+          "side": "L",
+          "column_order": 1,
+          "reading": "朝鮮信使",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f004-e04",
+          "location": "L02上段",
+          "side": "L",
+          "column_order": 2,
+          "reading": "來聘于東都",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f004-e05",
+          "location": "L03下段",
+          "side": "L",
+          "column_order": 3,
+          "reading": "醫官奇斗文論理",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "image_sha256": "5e92aa3eea3adfee9458f56c120f40f0d6c7a7e0b452be99eea01c5a0d294240",
+      "layout": "右面手寫序末，背透密集，兩方黑印。左面轉刊刻上卷首，題上三朱印。",
+      "boundaries": "上下版框兩面在，左欄底靠框，外側題版狹欄與正文分明。",
+      "observation": "右首一字短欄近框上，字近「首」待定。書者署名與兩印另層。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 3
+        },
+        {
+          "side": "L",
+          "text_column_count": 8
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f005-e01",
+          "location": "R02上半到下半",
+          "side": "R",
+          "column_order": 2,
+          "reading": "正德壬辰七月之吉",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-e02",
+          "location": "R03中段",
+          "side": "R",
+          "column_order": 3,
+          "reading": "北尾權春倫書",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-e03",
+          "location": "L01上部",
+          "side": "L",
+          "column_order": 1,
+          "reading": "桑韓醫談卷上",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-e04",
+          "location": "L02上部",
+          "side": "L",
+          "column_order": 2,
+          "reading": "正德元年辛卯季冬朔夜會朝鮮國奇斗文",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-e05",
+          "location": "L03上部",
+          "side": "L",
+          "column_order": 3,
+          "reading": "於濃州大垣桃源山全昌寺",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-e06",
+          "location": "L05上中部",
+          "side": "L",
+          "column_order": 5,
+          "reading": "僕姓藤氏北尾名春圃字育仁號當壯菴",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f005-e07",
+          "location": "左面上方方印",
+          "side": null,
+          "column_order": null,
+          "reading": "九大泌尿器科圖書印",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "image_sha256": "80697c2c22f5f23b4d964e7b1da85187f0e05484092bcd131567aabfdafb93ed",
+      "layout": "右面先續通刺再復名前答，左面入藥物問答。左面第三、四大欄與後續答欄間的雙窄字列另計。",
+      "boundaries": "上下框完整，左版口狹條可辨，右框上方淡朱印樣可能背透。",
+      "observation": "名號「篁百軒」第一字筆密待覆。問答小名與題同行，框外版心另層。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 8
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f006-e01",
+          "location": "R04上部",
+          "side": "R",
+          "column_order": 4,
+          "reading": "又啓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-e02",
+          "location": "R05上部",
+          "side": "R",
+          "column_order": 5,
+          "reading": "公姓名如何",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-e03",
+          "location": "R06上部",
+          "side": "R",
+          "column_order": 6,
+          "reading": "復",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-e04",
+          "location": "R07上中部",
+          "side": "R",
+          "column_order": 7,
+          "reading": "俺姓奇諱斗文號篁百軒職朝散大夫",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f006-e05",
+          "location": "L01欄首",
+          "side": "L",
+          "column_order": 1,
+          "reading": "一問春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-e06",
+          "location": "L05欄首",
+          "side": "L",
+          "column_order": 5,
+          "reading": "一答斗文",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f006-e07",
+          "location": "L04後雙細列",
+          "side": "L",
+          "column_order": 4,
+          "reading": "沙參示之斗文能嚼而味之",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "image_sha256": "1f64b65df0d3d4fbdcb2006e8d8789e64661a8bbedeeab9e4eb828756da12d11",
+      "layout": "右面三大字欄及一圖說短細欄，植物線圖占右面左下。左面續比較沙參。",
+      "boundaries": "上下框兩面清楚，畫根至內框下段，外側版心字另層。",
+      "observation": "L01「薺苨」及末欄同詞可由原字形覆核，短細欄勿另起正文。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 3
+        },
+        {
+          "side": "L",
+          "text_column_count": 8
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f007-e01",
+          "location": "R02上部",
+          "side": "R",
+          "column_order": 2,
+          "reading": "本草綱目所載者不如此",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f007-e02",
+          "location": "R03中段",
+          "side": "R",
+          "column_order": 3,
+          "reading": "其花葉如圖",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f007-e03",
+          "location": "R03左側短細欄",
+          "side": "R",
+          "column_order": 3,
+          "reading": "根出白汁",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f007-e04",
+          "location": "L01欄首",
+          "side": "L",
+          "column_order": 1,
+          "reading": "一答",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f007-e05",
+          "location": "L02上段",
+          "side": "L",
+          "column_order": 2,
+          "reading": "本草綱目沙參條下曰",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f007-e06",
+          "location": "L08下部雙行",
+          "side": "L",
+          "column_order": 8,
+          "reading": "俗名鐵人參者也",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "image_sha256": "7f23067349a1fa801ad2d74de23e2862ad566549806380ff8d666a03e7ad18d6",
+      "layout": "右面線描另一種植物，大字集中右半的靠縫側三欄。左面續辨藥。",
+      "boundaries": "右框頂近圖上方一小斷，兩面下框與圖根全見。",
+      "observation": "R02短欄接圖旁，弱灰背透與線圖分層。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 3
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f008-e01",
+          "location": "R01上至中部",
+          "side": "R",
+          "column_order": 1,
+          "reading": "一答此乃沙參真也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f008-e02",
+          "location": "R03上部",
+          "side": "R",
+          "column_order": 3,
+          "reading": "一問僕所以問沙參者",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f008-e03",
+          "location": "L01中段",
+          "side": "L",
+          "column_order": 1,
+          "reading": "本草綱目曰人參上黨者",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f008-e04",
+          "location": "L08上至中段",
+          "side": "L",
+          "column_order": 8,
+          "reading": "一答沙參藥性云清心益肺",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "image_sha256": "3c24e1d3fe69e6c858cd41105fc3c6f141ddb296ae6a1c43ec1e6f5fc7913634",
+      "layout": "兩面問答密列，L02 矮短欄只有「矣」。右面靠縫有末署小字。",
+      "boundaries": "上下黑框全見，左右外緣版心狹列與正文分開。",
+      "observation": "R03 所產山名前字筆疊，留待辨。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f009-e01",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "一又我邦之人參",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f009-e02",
+          "location": "R05上",
+          "side": "R",
+          "column_order": 5,
+          "reading": "一問時珍曰以葳蕤代參芪",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f009-e03",
+          "location": "R08上",
+          "side": "R",
+          "column_order": 8,
+          "reading": "一答土風各殊",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f009-e04",
+          "location": "R09下段雙細列",
+          "side": "R",
+          "column_order": 9,
+          "reading": "我邦之黃精出之長而柔者也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f009-e05",
+          "location": "L03上中段",
+          "side": "L",
+          "column_order": 3,
+          "reading": "一問其一證始發也腰痛",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "image_sha256": "e09e24d03e53737d33a9bac0ded9f055bfa5db9df25f07feab1f1e821f58af70",
+      "layout": "右面童兒病案、抑肝扶脾散及細製法。左面耳聾病例，L01 只一字。",
+      "boundaries": "兩面頂與底完整，右面逐藥細字向相鄰欄伸出。",
+      "observation": "R01「疳痢」及再字依候讀，需原圖放大比筆。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f010-e01",
+          "location": "R01上半",
+          "side": "R",
+          "column_order": 1,
+          "reading": "小兒疳痢再服蓄熱",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f010-e02",
+          "location": "R05上",
+          "side": "R",
+          "column_order": 5,
+          "reading": "抑肝扶脾散",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f010-e03",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "白术",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f010-e04",
+          "location": "R06中旁兩字",
+          "side": "R",
+          "column_order": 6,
+          "reading": "酒洗",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f010-e05",
+          "location": "L02上",
+          "side": "L",
+          "column_order": 2,
+          "reading": "一問一人歲三十三耳聾多年",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f010-e06",
+          "location": "L08中",
+          "side": "L",
+          "column_order": 8,
+          "reading": "大垣行程半日到處",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "image_sha256": "b194234da0c8226de6408ca6a1cfd23f14cfb93168d2a577bd6091a6c058f588",
+      "layout": "耳聾面診敘述續，右末問歷史病名，左面再轉臟結。",
+      "boundaries": "上下框齊全，右面最靠縫欄只有承上的「何」。",
+      "observation": "R08 癆、瘵兩字部首緊貼，暫依見形留候讀。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f011-e01",
+          "location": "R01上部",
+          "side": "R",
+          "column_order": 1,
+          "reading": "一答明日來則診脈",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f011-e02",
+          "location": "R03上部",
+          "side": "R",
+          "column_order": 3,
+          "reading": "斗文到于今須驛診脈",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f011-e03",
+          "location": "R04上",
+          "side": "R",
+          "column_order": 4,
+          "reading": "補中益氣湯",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f011-e04",
+          "location": "R08上",
+          "side": "R",
+          "column_order": 8,
+          "reading": "一問癆瘵傳屍者",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f011-e05",
+          "location": "L03上",
+          "side": "L",
+          "column_order": 3,
+          "reading": "一問仲景曰傷寒溫熱病臟結者",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f011-e06",
+          "location": "L08欄頂",
+          "side": "L",
+          "column_order": 8,
+          "reading": "何",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "image_sha256": "567a908e67131a91f55bb2d017e7c53693fa9e9ae60a2558b73ef03624422a8c",
+      "layout": "右面答辯後有啓文、春圃署。左全幅接家人名號及醫論六條。",
+      "boundaries": "兩面上下黑框可見，L03 下緣框外一小孔痕。",
+      "observation": "R06 尾兩字蟲名筆密，待放大。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f012-e01",
+          "location": "R02上部",
+          "side": "R",
+          "column_order": 2,
+          "reading": "一問傷寒溫熱病蓄血之症",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f012-e02",
+          "location": "R08上部",
+          "side": "R",
+          "column_order": 8,
+          "reading": "啓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f012-e03",
+          "location": "R08下部",
+          "side": "R",
+          "column_order": 8,
+          "reading": "春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f012-e04",
+          "location": "L02上部",
+          "side": "L",
+          "column_order": 2,
+          "reading": "伯號春竹仲號春倫叔號道仙",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f012-e05",
+          "location": "L04中部",
+          "side": "L",
+          "column_order": 4,
+          "reading": "醫論六條以呈案下",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "image_sha256": "18222c7b06d8f1bc8088e56185c2f302080af198db49f9a3e9aad3972cdc28fa",
+      "layout": "右面有醫論六條總題及樞紐篇題，各為短欄。張氏引文接命門、水火論。",
+      "boundaries": "黑框上下全，右面外版心磨黑，左面下框外小深斑。",
+      "observation": "R03 第四字式微的背面透字另層，篇題只取兩字。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f013-e01",
+          "location": "R02上",
+          "side": "R",
+          "column_order": 2,
+          "reading": "醫論六條",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f013-e02",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "樞紐",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f013-e03",
+          "location": "R04上至中",
+          "side": "R",
+          "column_order": 4,
+          "reading": "張氏曰命門之火謂之元氣元陽真陽",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f013-e04",
+          "location": "L09上",
+          "side": "L",
+          "column_order": 9,
+          "reading": "難經曰臍下腎間動氣者",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "image_sha256": "dd7d7b48ebd7b909077a67a38799b07760487adacf93ece2f4799e6916587be2",
+      "layout": "兩面續命門動氣。右面靠縫的前半有雙窄小字，左面同版第5欄僅一字。",
+      "boundaries": "黑上下框全，右頁外側版心水漬或磨墨多，框內字仍可見。",
+      "observation": "右面雙細列有數字形擠在下縫前，見候讀。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f014-e01",
+          "location": "R02上部",
+          "side": "R",
+          "column_order": 2,
+          "reading": "腎間動氣丹田之地",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f014-e02",
+          "location": "R05中部",
+          "side": "R",
+          "column_order": 5,
+          "reading": "自弱冠始入醫門以來",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f014-e03",
+          "location": "R09前段雙細列",
+          "side": "R",
+          "column_order": 9,
+          "reading": "火衰者進而散",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f014-e04",
+          "location": "L05欄首",
+          "side": "L",
+          "column_order": 5,
+          "reading": "也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f014-e05",
+          "location": "L07上部",
+          "side": "L",
+          "column_order": 7,
+          "reading": "水無火者",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "image_sha256": "e0f7d268366733fac60ee47332ecd32caebd0e18c118c15d2974417c9153f7fc",
+      "layout": "續命門、陰陽虛實及與訪人談論。無插圖，兩面欄滿。",
+      "boundaries": "上下框兩面全，右面外版心有密黑重跡，左頁底緣細點數個。",
+      "observation": "L03「訪主」「齋主人」一帶細返點需按列辨。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f015-e01",
+          "location": "R06中段",
+          "side": "R",
+          "column_order": 6,
+          "reading": "薛氏張氏",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f015-e02",
+          "location": "R06下段",
+          "side": "R",
+          "column_order": 6,
+          "reading": "東垣丹溪",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f015-e03",
+          "location": "L02上半",
+          "side": "L",
+          "column_order": 2,
+          "reading": "命門之真火因動浮散",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f015-e04",
+          "location": "L04上部",
+          "side": "L",
+          "column_order": 4,
+          "reading": "滋陰謂予曰服六味腎氣丸",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f015-e05",
+          "location": "L08下部",
+          "side": "L",
+          "column_order": 8,
+          "reading": "始識命門之火",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "image_sha256": "f4676935d463f8fa3697f08d2b31557d55d5fd81143c51a247e32df53d94fe9d",
+      "layout": "兩面續論未發之火，夾注特多。右面最靠縫一欄以雙窄細列書。",
+      "boundaries": "左右上下框全，右版心疊墨。右面下框近縫有一道向下細纖線。",
+      "observation": "右面 R06 雙行的分句以及「李」字連次須覆。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f016-e01",
+          "location": "R04中段",
+          "side": "R",
+          "column_order": 4,
+          "reading": "一室有燈火光明能照於闇中",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f016-e02",
+          "location": "R06欄首雙行",
+          "side": "R",
+          "column_order": 6,
+          "reading": "東垣所謂胃氣李張介賔所謂真陽也",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f016-e03",
+          "location": "L01上部",
+          "side": "L",
+          "column_order": 1,
+          "reading": "客問未發之火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f016-e04",
+          "location": "L02上段",
+          "side": "L",
+          "column_order": 2,
+          "reading": "應之曰火未發也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f016-e05",
+          "location": "L03上段",
+          "side": "L",
+          "column_order": 3,
+          "reading": "命門之真火而氣之根元也",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "image_sha256": "f82f94e1b26eb8e0f36e8e858cc5399e9185933323da9766ea440bff9421fc83",
+      "layout": "右面辨體徵，左面談虛火，最外左欄是已發之火短題。",
+      "boundaries": "上下框完整，左最外欄題下留空，空處透出淡行。",
+      "observation": "R10 起首框線與筆畫壓在一起，字形較弱。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f017-e01",
+          "location": "R04中段",
+          "side": "R",
+          "column_order": 4,
+          "reading": "婦人血枯者",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f017-e02",
+          "location": "R06下段",
+          "side": "R",
+          "column_order": 6,
+          "reading": "血之源生於飲食",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f017-e03",
+          "location": "L05上半",
+          "side": "L",
+          "column_order": 5,
+          "reading": "客曰丹溪所謂虛火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f017-e04",
+          "location": "L09上部",
+          "side": "L",
+          "column_order": 9,
+          "reading": "已發之火",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "image_sha256": "a5efa055f43ea2a92421dadad832ec2215cec92e55b6a18a6b6af177547fb062",
+      "layout": "已發之火虛實的續文，左面第7欄另立「假火」短題。",
+      "boundaries": "上下界齊，左短題後可見背透，左底框外一小漆色點。",
+      "observation": "右首「如寸苗」附近末段刻筆緊靠底框。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f018-e01",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "內經曰五藏生五火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f018-e02",
+          "location": "R05上",
+          "side": "R",
+          "column_order": 5,
+          "reading": "面色如秋令",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f018-e03",
+          "location": "L07上",
+          "side": "L",
+          "column_order": 7,
+          "reading": "假火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f018-e04",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "時珍曰澤中之陽焰狀如火",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "image_sha256": "594b57b486ff3307f517152ba1e5d3df63aad902c7986c7d82e8d0aca6498601",
+      "layout": "右論假火、真假疑似，左面出現「客熱入腎中者」的短條。",
+      "boundaries": "上下黑框可辨，右最外版心有疊筆以及葉數。",
+      "observation": "L08 小字末筆和本欄版心不同，位置在下側。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f019-e01",
+          "location": "R01上部",
+          "side": "R",
+          "column_order": 1,
+          "reading": "有三其一曰因飲食勞倦",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f019-e02",
+          "location": "R04中段",
+          "side": "R",
+          "column_order": 4,
+          "reading": "未發已發之火真假疑似之間",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f019-e03",
+          "location": "L02上部",
+          "side": "L",
+          "column_order": 2,
+          "reading": "真陽復于丹田臍下動氣收斂",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f019-e04",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "客熱入腎中者",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f019-e05",
+          "location": "L08下部雙細列",
+          "side": "L",
+          "column_order": 8,
+          "reading": "降火者依丹溪",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "image_sha256": "fcf781b29f74a636fced3792381a481bd5a5357bbfcd1236d9d62661a3c6c47f",
+      "layout": "右面續論，欄末負責評讀的斗文署兩見，其中一處為小字。左面續答。",
+      "boundaries": "兩面上下框可讀，右上紙外緣和左頁外版心有細黑點。",
+      "observation": "R08 小字按右列「斗文熟讀」再左列「一過矣」。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f020-e01",
+          "location": "R08中段雙細列",
+          "side": "R",
+          "column_order": 8,
+          "reading": "斗文熟讀一過矣",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f020-e02",
+          "location": "R09上",
+          "side": "R",
+          "column_order": 9,
+          "reading": "敬答",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f020-e03",
+          "location": "R09下",
+          "side": "R",
+          "column_order": 9,
+          "reading": "斗文",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f020-e04",
+          "location": "L01上",
+          "side": "L",
+          "column_order": 1,
+          "reading": "足下之所論",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f020-e05",
+          "location": "L02上",
+          "side": "L",
+          "column_order": 2,
+          "reading": "至于江戶論理治療之業",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "image_sha256": "8bd55d97ba943eedd425786d530aa27f518b9ba7766c8c44d9674a8ba128643d",
+      "layout": "同開過卷界，右面上卷終，左面卷下首。有春圃、斗文信札答辯署。",
+      "boundaries": "左下卷框上朱印，右框上緣近外殘跡。兩面大段背透在短欄間。",
+      "observation": "三個左面短題下淡行是背透；署款與卷界按各自欄位錄。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f021-e01",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "啓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e02",
+          "location": "R03下",
+          "side": "R",
+          "column_order": 3,
+          "reading": "春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e03",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "復",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e04",
+          "location": "R06下",
+          "side": "R",
+          "column_order": 6,
+          "reading": "斗文",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e05",
+          "location": "R09下部",
+          "side": "R",
+          "column_order": 9,
+          "reading": "上卷終",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e06",
+          "location": "L01上部",
+          "side": "L",
+          "column_order": 1,
+          "reading": "桑韓醫談卷下",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e07",
+          "location": "L02下",
+          "side": "L",
+          "column_order": 2,
+          "reading": "春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e08",
+          "location": "L07上部",
+          "side": "L",
+          "column_order": 7,
+          "reading": "耳",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e09",
+          "location": "L08上部",
+          "side": "L",
+          "column_order": 8,
+          "reading": "治法",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f021-e10",
+          "location": "L09上部",
+          "side": "L",
+          "column_order": 9,
+          "reading": "脾胃",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "image_sha256": "79d5444b43e020487cc13cdc7cd7c57cc99942974739eeec660606986ba0d404",
+      "layout": "右面承脾胃論，左面正文穿插治法雙細行及相關照護。",
+      "boundaries": "見上下黑框，右面上框外出現淡紅方印背影。",
+      "observation": "右上淡朱形與前幅位置關係像背印，來源與印文均不猜。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f022-e01",
+          "location": "R01上段",
+          "side": "R",
+          "column_order": 1,
+          "reading": "內經曰五藏者皆稟氣於胃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f022-e02",
+          "location": "R03中段",
+          "side": "R",
+          "column_order": 3,
+          "reading": "東垣老人補腎補脾",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f022-e03",
+          "location": "L01中上雙細列",
+          "side": "L",
+          "column_order": 1,
+          "reading": "治法以八味丸料加參术",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f022-e04",
+          "location": "L08中下",
+          "side": "L",
+          "column_order": 8,
+          "reading": "節飲食絶嗜慾而攝養之則可",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "image_sha256": "432314158fa49cf50cebe7e12fccb065059bda14c272d867cf862e7fa999a873",
+      "layout": "右面病案中述診脈，左面「補陽」短題及同類病案。",
+      "boundaries": "兩面黑框上下全，右面最外短版心重黑，左下框外留數黑點。",
+      "observation": "L01 題下可見倒淡透影，仍視短題。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f023-e01",
+          "location": "R03上段",
+          "side": "R",
+          "column_order": 3,
+          "reading": "腹脹一身腫大腹皮欲裂",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-e02",
+          "location": "R09中段",
+          "side": "R",
+          "column_order": 9,
+          "reading": "其治法在未發火之辨",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-e03",
+          "location": "L01上",
+          "side": "L",
+          "column_order": 1,
+          "reading": "補陽",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-e04",
+          "location": "L02上段",
+          "side": "L",
+          "column_order": 2,
+          "reading": "一人年五十五勞役而感風寒",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f023-e05",
+          "location": "L08下段",
+          "side": "L",
+          "column_order": 8,
+          "reading": "張氏曰人是小乾坤",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "image_sha256": "60c11314a8f11eb43e4ffa59165a7e5da6065daaf507f2990ddcc1fc59da3a6b",
+      "layout": "右論真陽、陰陽，左面接述兩案例及脈象。",
+      "boundaries": "兩面上下墨框俱全。紙頂左右近中有短褐裂痕，右側外版心疊黑。",
+      "observation": "L01 正文終於欄中，「脈平」以下淡行像背透，未入正文。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f024-e01",
+          "location": "R02上",
+          "side": "R",
+          "column_order": 2,
+          "reading": "真陽而為生命之根者也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f024-e02",
+          "location": "R07上段",
+          "side": "R",
+          "column_order": 7,
+          "reading": "內經曰凡陰陽之要陽密乃固",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f024-e03",
+          "location": "L02上",
+          "side": "L",
+          "column_order": 2,
+          "reading": "一人年三十夏月患熱",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f024-e04",
+          "location": "L09上段",
+          "side": "L",
+          "column_order": 9,
+          "reading": "一人年三十五霍亂吐瀉",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "image_sha256": "bdad08154b8cfd2024bd4c95afeda495610048850366495d432a6051eaca603a",
+      "layout": "右面見急症問診與五十八歲案例。左面延續到「實似虛者」短條。",
+      "boundaries": "紙頂有數細裂，左下框外一點深斑，兩面上下版框全。",
+      "observation": "右首「無効」之後小字送假名跟在大字右側。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f025-e01",
+          "location": "R03中",
+          "side": "R",
+          "column_order": 3,
+          "reading": "有升氣也知陽未絶",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f025-e02",
+          "location": "R07上",
+          "side": "R",
+          "column_order": 7,
+          "reading": "調和而安",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f025-e03",
+          "location": "R08上段",
+          "side": "R",
+          "column_order": 8,
+          "reading": "一人年五十八吐瀉之後不食腹漸脹",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f025-e04",
+          "location": "L09上",
+          "side": "L",
+          "column_order": 9,
+          "reading": "實似虛者或瀉之或和之",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "image_sha256": "3bd02f6ae93317bb82dc34c6a839d049733d37907675fc11947a73da02cfa8dd",
+      "layout": "右面首欄另起婦人案，左面近書口另起熱病案。",
+      "boundaries": "上框及下框全，紙上緣裂痕續見，右側版心有黑疊墨。",
+      "observation": "L07 字欄「在此乎」下空白，背透淡字另層。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f026-e01",
+          "location": "R01上部",
+          "side": "R",
+          "column_order": 1,
+          "reading": "一婦年二十五",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f026-e02",
+          "location": "R05上部",
+          "side": "R",
+          "column_order": 5,
+          "reading": "手足得微溫而有惡心",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f026-e03",
+          "location": "R07中段",
+          "side": "R",
+          "column_order": 7,
+          "reading": "舉家聞之驚哭",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f026-e04",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "一人年三十患熱經日不解",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f026-e05",
+          "location": "L09上部",
+          "side": "L",
+          "column_order": 9,
+          "reading": "舌焦黑不語",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "image_sha256": "5710a4dd1aa1359a48b0f79b0e5b8f57c5d550f9f8415695d5e25ef7a2057bca",
+      "layout": "中縫較前幅向右移，書口位置左右互換厚度。右新題未發之火；左新題假火。",
+      "boundaries": "上下黑框皆見，右框頂上有短筆痕，左外版心黑疊。",
+      "observation": "R07「憂」後描述字緊，L07 假火題後的淡行像背透。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f027-e01",
+          "location": "R04中",
+          "side": "R",
+          "column_order": 4,
+          "reading": "而能言三貼而思食後調理",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-e02",
+          "location": "R05欄頂",
+          "side": "R",
+          "column_order": 5,
+          "reading": "安",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-e03",
+          "location": "R06欄首",
+          "side": "R",
+          "column_order": 6,
+          "reading": "未發之火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-e04",
+          "location": "R07上",
+          "side": "R",
+          "column_order": 7,
+          "reading": "一人年四十十月面色憂",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-e05",
+          "location": "L07上",
+          "side": "L",
+          "column_order": 7,
+          "reading": "假火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f027-e06",
+          "location": "L08上段",
+          "side": "L",
+          "column_order": 8,
+          "reading": "一人年四十患大頭痛",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "image_sha256": "95b2aad7cf164fd95aacd258a1b74665ff33e6e836d8048eb538a1b63f3a7341",
+      "layout": "右面由診脈轉產後病案。左面續產後及觀察、攝養。",
+      "boundaries": "兩面上下框皆在，右框底下有兩個小深點，左側書口厚。",
+      "observation": "R06 年齡與月份直接相鄰，按見字留原次。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f028-e01",
+          "location": "R02中",
+          "side": "R",
+          "column_order": 2,
+          "reading": "舉指來疾者腎部也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-e02",
+          "location": "R05欄首",
+          "side": "R",
+          "column_order": 5,
+          "reading": "安",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-e03",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "一婦年二十五九月產而後口舌為痛",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-e04",
+          "location": "R09中下",
+          "side": "R",
+          "column_order": 9,
+          "reading": "手足浮腫發熱譫言",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f028-e05",
+          "location": "L09下",
+          "side": "L",
+          "column_order": 9,
+          "reading": "動氣稍見攝養",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "image_sha256": "4e81a420ad4c6c8426f1eeffb06d9cbf3ab35db7adff4bf5ed99e2661830ec8e",
+      "layout": "右面第2欄有短題及旁下雙列小字，繼以病案。左續陰陽論。",
+      "boundaries": "頂底框皆見，左外版心疊墨及污點，左末欄下空。",
+      "observation": "R02 雙列「常」形近異字，留候讀。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f029-e01",
+          "location": "R01上",
+          "side": "R",
+          "column_order": 1,
+          "reading": "十日而安",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f029-e02",
+          "location": "R02上",
+          "side": "R",
+          "column_order": 2,
+          "reading": "陰陽如權衡",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f029-e03",
+          "location": "R02下部雙細列",
+          "side": "R",
+          "column_order": 2,
+          "reading": "人病則欲使陰陽如權衡常則欲真陽有餘也",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f029-e04",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "一人年三十五患熱病",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f029-e05",
+          "location": "L06上",
+          "side": "L",
+          "column_order": 6,
+          "reading": "如有所得",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "image_sha256": "1e9c89c996375a4dbcbb8ced247a1c9f3b266cbccfad07e49e6dd0c52c58dacc",
+      "layout": "右面新題「火極似水」及小兒病案，左面回到雙方往答與斗文評讀。",
+      "boundaries": "兩面上下框齊，左面幾個短欄下有背透影。",
+      "observation": "R02「童」上方有一短橫，與「一」相合。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f030-e01",
+          "location": "R01上",
+          "side": "R",
+          "column_order": 1,
+          "reading": "火極似水",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-e02",
+          "location": "R02上",
+          "side": "R",
+          "column_order": 2,
+          "reading": "一童仲夏患熱十三日不解",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-e03",
+          "location": "L03中部雙細列",
+          "side": "L",
+          "column_order": 3,
+          "reading": "斗文熟讀一過矣",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-e04",
+          "location": "L04上",
+          "side": "L",
+          "column_order": 4,
+          "reading": "敬答",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-e05",
+          "location": "L04下",
+          "side": "L",
+          "column_order": 4,
+          "reading": "斗文",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f030-e06",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "防風通聖散",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "image_sha256": "6972eb9be79cd80af0d8dfe263ce5d6ceb5ab73194d74071358791512d59f9b1",
+      "layout": "右面兩啓和春圃兩署，左面斗文答及贈藥物名。背透在短欄後明顯。",
+      "boundaries": "紙上下邊全見，右底框稍斜。左欄末段空白較多，外側版心有黑疊。",
+      "observation": "L02 近底「臨楮」一帶左右字筆連續，細讀留疑。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f031-e01",
+          "location": "R01上",
+          "side": "R",
+          "column_order": 1,
+          "reading": "啓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e02",
+          "location": "R01下",
+          "side": "R",
+          "column_order": 1,
+          "reading": "春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e03",
+          "location": "R08上",
+          "side": "R",
+          "column_order": 8,
+          "reading": "二日之朝訪旅窗",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e04",
+          "location": "R09上",
+          "side": "R",
+          "column_order": 9,
+          "reading": "謹啓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e05",
+          "location": "R09下",
+          "side": "R",
+          "column_order": 9,
+          "reading": "春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e06",
+          "location": "L04上",
+          "side": "L",
+          "column_order": 4,
+          "reading": "復",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e07",
+          "location": "L04下",
+          "side": "L",
+          "column_order": 4,
+          "reading": "斗文",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e08",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "金衣者牛黃清心丸",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f031-e09",
+          "location": "L09上",
+          "side": "L",
+          "column_order": 9,
+          "reading": "長者紫金錠",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "image_sha256": "09d2996fa57f92b8ab10e7bb95186b190198bf986334093308034e7cc75f4519",
+      "layout": "同開右面書正文完結，左面明題附錄。右半空欄透影仍能看見，實墨只有六個欄區。",
+      "boundaries": "兩面上下黑框均在，縫左下框有短纖裂，右面大空隙未斷框。",
+      "observation": "畢字較前題小且偏左，附錄短題在另一面；右末大字前無須補透影。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 6
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f032-e01",
+          "location": "R01上",
+          "side": "R",
+          "column_order": 1,
+          "reading": "圓者薄荷煎",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-e02",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "謹啓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-e03",
+          "location": "R03下",
+          "side": "R",
+          "column_order": 3,
+          "reading": "春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-e04",
+          "location": "R04上部",
+          "side": "R",
+          "column_order": 4,
+          "reading": "臨別辱賜良藥三種",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-e05",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "桑韓醫談畢",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-e06",
+          "location": "L01上",
+          "side": "L",
+          "column_order": 1,
+          "reading": "附錄",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-e07",
+          "location": "L02上",
+          "side": "L",
+          "column_order": 2,
+          "reading": "伯仲叔曰太歲家君",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f032-e08",
+          "location": "L06上",
+          "side": "L",
+          "column_order": 6,
+          "reading": "答曰人是小天地孤陽不生獨陰不成",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "image_sha256": "c84a9f431c2e054415cc422bc548aa2213bdcb2cbd18d679a52c5f01580560af",
+      "layout": "附錄問答，右面有數個短欄，左面再引脾胃論、命門說。",
+      "boundaries": "四條上下橫框可辨，右下有伸到白處的紙纖，左書口有黑跡。",
+      "observation": "R09「太僕」與段首「答」相連而有返點，可對原刻。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f033-e01",
+          "location": "R06欄首",
+          "side": "R",
+          "column_order": 6,
+          "reading": "而已",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f033-e02",
+          "location": "R07上",
+          "side": "R",
+          "column_order": 7,
+          "reading": "問少壯火之說",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f033-e03",
+          "location": "R08中",
+          "side": "R",
+          "column_order": 8,
+          "reading": "命門說之未知有所據乎",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f033-e04",
+          "location": "R09上",
+          "side": "R",
+          "column_order": 9,
+          "reading": "答曰少壯火之說王太僕曰",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f033-e05",
+          "location": "L08上中",
+          "side": "L",
+          "column_order": 8,
+          "reading": "本於張介賔命門之說",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "image_sha256": "c0f0e656bc044f0842ba55a21a3c68784e6ee4ed0db35a66f84e733b5dbfebf1",
+      "layout": "附錄問答，右面第2欄以雙細列續入較大正文，左面另問少火變為壯火。",
+      "boundaries": "上下框清楚，左面底框轉折、整幅可見，右邊外側版心。",
+      "observation": "右面第2欄上部雙行，R01 收束以下也有夾注，按兩欄各自定位。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f034-e01",
+          "location": "R01中下雙細列",
+          "side": "R",
+          "column_order": 1,
+          "reading": "內經所謂五藏生五火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f034-e02",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "問以燈火比于元氣請詳示之",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f034-e03",
+          "location": "R07上",
+          "side": "R",
+          "column_order": 7,
+          "reading": "答曰內經曰少火難經曰腎間動氣",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f034-e04",
+          "location": "L05上",
+          "side": "L",
+          "column_order": 5,
+          "reading": "問少火變為壯火",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f034-e05",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "火治法以補氣藥中",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "image_sha256": "791495b496582f145ebb31e9df537651efa79c1ca8cf0e579b55c3ebf7822f9b",
+      "layout": "附錄續，右面問答交界在第6及第7欄。左面論心腎、元氣。",
+      "boundaries": "頂底黑框完整，左頁上框外近左留淡線，右下框內有小灰斜痕。",
+      "observation": "R06「呼」附近送假名極小，分開大字與小字。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f035-e01",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "王注曰益火之源",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f035-e02",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "呼迂哉乞聞其詳",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f035-e03",
+          "location": "R07上",
+          "side": "R",
+          "column_order": 7,
+          "reading": "答曰迂哉問我亦疑之數歲",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f035-e04",
+          "location": "L03中上",
+          "side": "L",
+          "column_order": 3,
+          "reading": "六味腎氣丸制陽光用八味丸益火之",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f035-e05",
+          "location": "L07中",
+          "side": "L",
+          "column_order": 7,
+          "reading": "真氣在上者",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "image_sha256": "013900f3b6d69430fec03da401b9bf0a0fac85044157a81b8de64eaf5e0e2e78",
+      "layout": "附錄問答續。右版內多處雙細列夾注，左另問東垣。",
+      "boundaries": "左上框有間斷，左右底框完整。縫上小缺纖未觸正文。",
+      "observation": "R03 下段雙行接話「張介賔云」字距窄，注意與旁欄分清。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f036-e01",
+          "location": "R03上段雙細列",
+          "side": "R",
+          "column_order": 3,
+          "reading": "腎間動氣在焉",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f036-e02",
+          "location": "R04上段雙細列",
+          "side": "R",
+          "column_order": 4,
+          "reading": "命門元神舍于心也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f036-e03",
+          "location": "R05下段雙細列",
+          "side": "R",
+          "column_order": 5,
+          "reading": "介賔云腎熱骨蒸者以地骨皮者也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f036-e04",
+          "location": "R08上",
+          "side": "R",
+          "column_order": 8,
+          "reading": "問燈火之說得聞之",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f036-e05",
+          "location": "L02上",
+          "side": "L",
+          "column_order": 2,
+          "reading": "答曰三子之心一如此",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f036-e06",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "又問東垣曰以脾胃為主",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "image_sha256": "fd3f1a267fb7b80b4af9b14a461b95ab7db4fe7082fa16e8ec28a4f4fcbbef2f",
+      "layout": "附錄續論養正與真假火，右面第5欄短只「其治法示之」，第6欄再答。",
+      "boundaries": "兩頁上下框俱在，右面上框上方一圓褐點，縫上延續缺纖。",
+      "observation": "L07「入猶言」一帶返點與大字緊靠，留待細讀。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f037-e01",
+          "location": "R02中段",
+          "side": "R",
+          "column_order": 2,
+          "reading": "以養正邪自除之理",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-e02",
+          "location": "R05上",
+          "side": "R",
+          "column_order": 5,
+          "reading": "其治法示之",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-e03",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "答曰東垣以胃氣為元氣之本",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-e04",
+          "location": "L01中",
+          "side": "L",
+          "column_order": 1,
+          "reading": "許學士曰補脾",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f037-e05",
+          "location": "L08中段",
+          "side": "L",
+          "column_order": 8,
+          "reading": "陰火假火判然也",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "image_sha256": "0e9887a9f4ecb12d4a510f3aefa022f4ec4b73760b9394cad46d051242f4458c",
+      "layout": "左面第3與第6欄分別起問、答，書史名號集中左半。",
+      "boundaries": "黑框上下全，左面第5欄很短，題下淡透。",
+      "observation": "L03 結尾與 L04 中的「龔氏」一字需注意下部筆。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f038-e01",
+          "location": "R02上",
+          "side": "R",
+          "column_order": 2,
+          "reading": "補陽使陰陽如權衡也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-e02",
+          "location": "L03上",
+          "side": "L",
+          "column_order": 3,
+          "reading": "問今代之醫多高漢唐而不問宋元",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-e03",
+          "location": "L06上",
+          "side": "L",
+          "column_order": 6,
+          "reading": "答曰夫醫者始于素難",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-e04",
+          "location": "L07上",
+          "side": "L",
+          "column_order": 7,
+          "reading": "東垣丹溪",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f038-e05",
+          "location": "L08中",
+          "side": "L",
+          "column_order": 8,
+          "reading": "聞元明之方書",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "image_sha256": "6a1e867e5d574169694abc29b83200b9b2d60cc7cab818cfe99aaca612ad6057",
+      "layout": "附錄兩面分別見問答。左面第三欄僅「耳」一字；第7欄亦短。",
+      "boundaries": "兩面上下框在，左框上端一小斷，右下有一點微渣狀黑痕。",
+      "observation": "L08「安哉」近似，端部筆畫不足以確選。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f039-e01",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "問然則高龔氏乎否",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-e02",
+          "location": "R07上",
+          "side": "R",
+          "column_order": 7,
+          "reading": "答曰不然夫察虛實之要也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-e03",
+          "location": "L03欄首",
+          "side": "L",
+          "column_order": 3,
+          "reading": "耳",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-e04",
+          "location": "L04上",
+          "side": "L",
+          "column_order": 4,
+          "reading": "問時珍取王冰之語",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f039-e05",
+          "location": "L08上",
+          "side": "L",
+          "column_order": 8,
+          "reading": "答曰安哉惑于王冰之語",
+          "status": "candidate"
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "image_sha256": "b49efe5f4096e468f97fb3612f0ac07b5ee2c92d934ef4604d2ddedae6e29023",
+      "layout": "附錄晚段論陰火、辨證，兩面皆為正文長欄。",
+      "boundaries": "上下框皆在，書口小字出框。右靠縫欄欄首較淡。",
+      "observation": "R04 首字與未來分版比對前留作候讀，細點密。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f040-e01",
+          "location": "R01中段",
+          "side": "R",
+          "column_order": 1,
+          "reading": "復見陰火曰龍火之熾",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f040-e02",
+          "location": "R04上",
+          "side": "R",
+          "column_order": 4,
+          "reading": "俚俗醫師不由經論",
+          "status": "candidate"
+        },
+        {
+          "evidence_id": "f040-e03",
+          "location": "R06中",
+          "side": "R",
+          "column_order": 6,
+          "reading": "東垣治法曰兩丸",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f040-e04",
+          "location": "L07上",
+          "side": "L",
+          "column_order": 7,
+          "reading": "醫說東垣者只知補中益氣湯",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "image_sha256": "76a9b64acff5c27663e4d73c98c522c0311308e2c46c4a75d146fc3222d0264c",
+      "layout": "右面第8欄為短尾，其左再起一問。左面答後接一婦人案。",
+      "boundaries": "左上黑框稍斷，兩面下框全，短欄下多背透。",
+      "observation": "L08「箇」旁竹頭附近的返點、字畫分辨有待。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f041-e01",
+          "location": "R08上",
+          "side": "R",
+          "column_order": 8,
+          "reading": "之甚哉",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f041-e02",
+          "location": "R09上",
+          "side": "R",
+          "column_order": 9,
+          "reading": "問僕聞無胃氣者",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f041-e03",
+          "location": "L01上",
+          "side": "L",
+          "column_order": 1,
+          "reading": "虛證不受補者不治之說也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f041-e04",
+          "location": "L02上",
+          "side": "L",
+          "column_order": 2,
+          "reading": "答曰詳哉問",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f041-e05",
+          "location": "L08中段",
+          "side": "L",
+          "column_order": 8,
+          "reading": "一婦年三十經斷五箇月",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "image_sha256": "ece4d60103b53f7f4ac4b4ca39365252f828fb7470f3f9f4a54b3fc7438edf6d",
+      "layout": "右半續兩案例，左面最外欄中部有一段雙細夾字。",
+      "boundaries": "上黑框右面有數小斷，底框齊，左外欄下段字靠線。",
+      "observation": "小字在左末欄的「死證也」之後，與末欄下文分讀。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 9
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f042-e01",
+          "location": "R04上",
+          "side": "R",
+          "column_order": 4,
+          "reading": "屬予以為此婦必到秋臥床",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f042-e02",
+          "location": "R06中段",
+          "side": "R",
+          "column_order": 6,
+          "reading": "酒色過度之男年踰三十",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f042-e03",
+          "location": "L09上",
+          "side": "L",
+          "column_order": 9,
+          "reading": "死證也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f042-e04",
+          "location": "L09上後雙細列",
+          "side": "L",
+          "column_order": 9,
+          "reading": "命門之少火衰胃氣之源絶也",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f042-e05",
+          "location": "L09中段",
+          "side": "L",
+          "column_order": 9,
+          "reading": "此證有可治有不可治",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "image_sha256": "82ad86bd407f71811e92967943ac47897e33d9ae7bbb0474c0646f354fdd0a8e",
+      "layout": "右面附錄續。左面先兩實墨正文欄，其左經多列透影，外緣近版心另為第三實墨題欄。",
+      "boundaries": "左面上、下邊界全見，版框內大片背透。右紙上緣近外有短紋跡。",
+      "observation": "左欄間深灰墨為後幅手跡背透，覆核時計實墨三欄。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 9
+        },
+        {
+          "side": "L",
+          "text_column_count": 3
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f043-e01",
+          "location": "R06上",
+          "side": "R",
+          "column_order": 6,
+          "reading": "一補一瀉一和之間",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f043-e02",
+          "location": "R08中",
+          "side": "R",
+          "column_order": 8,
+          "reading": "望察神色",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f043-e03",
+          "location": "L02中下",
+          "side": "L",
+          "column_order": 2,
+          "reading": "嗚呼兒曹勉旃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f043-e04",
+          "location": "L03上部近最外",
+          "side": "L",
+          "column_order": 3,
+          "reading": "桑韓醫談附錄畢",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "image_sha256": "d491dfeab57c7052e80d824f8c4b1c08201f0f3d4f3862e34244ecdc876cb0ef",
+      "layout": "右面手書跋六欄並有細假名。左面手書日期、署名鈐黑印，左外兩刻欄刊記與右側以直線分隔。另有方朱印。",
+      "boundaries": "兩面上下墨框完整，刊記的細豎分界線從頂框至底框。",
+      "observation": "手書日期德字行草、署下黑方印字留待辨。刊記末「板行」原刊有木旁。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 6
+        },
+        {
+          "side": "L",
+          "text_column_count": 4
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f044-e01",
+          "location": "R01上",
+          "side": "R",
+          "column_order": 1,
+          "reading": "吾黨春圃",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e02",
+          "location": "R03上",
+          "side": "R",
+          "column_order": 3,
+          "reading": "醫官奇斗文",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e03",
+          "location": "R04上",
+          "side": "R",
+          "column_order": 4,
+          "reading": "與三子討論者",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e04",
+          "location": "R06上中",
+          "side": "R",
+          "column_order": 6,
+          "reading": "其事實於卷末云尓",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e05",
+          "location": "L01上",
+          "side": "L",
+          "column_order": 1,
+          "reading": "正德壬辰初秋之望",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e06",
+          "location": "L02下部",
+          "side": "L",
+          "column_order": 2,
+          "reading": "岡行義",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e07",
+          "location": "L03上",
+          "side": "L",
+          "column_order": 3,
+          "reading": "正德三年癸巳孟春吉旦",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e08",
+          "location": "L04中部",
+          "side": "L",
+          "column_order": 4,
+          "reading": "皇都書肆",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e09",
+          "location": "L04下部",
+          "side": "L",
+          "column_order": 4,
+          "reading": "萬屋喜兵衛板行",
+          "status": "read_from_image"
+        },
+        {
+          "evidence_id": "f044-e10",
+          "location": "左中方朱印",
+          "side": null,
+          "column_order": null,
+          "reading": "九大泌尿器科圖書印",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "image_sha256": "0369cf411d562d86683bd54cfc209a7162702fec2651e1bdd6e2137404d299c1",
+      "layout": "右面只見空框及前幅跋、雛紅印、黑印刊記背透；左面為帶灰纖維的襯紙。",
+      "boundaries": "右黑框上下均在，縫上及縫下數個纖鬚破孔，左紙緣全見。",
+      "observation": "右版心題字有實墨，框內無實字。背透勿重錄。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 0
+        },
+        {
+          "side": "L",
+          "text_column_count": 0
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f045-e01",
+          "location": "右外側版心",
+          "side": null,
+          "column_order": null,
+          "reading": "桑韓醫談",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "image_sha256": "f6727cf0bbcc1baa82b7c69cdaaf0cc6d973a171d8bd67fc17b1f8d58859138e",
+      "layout": "右面仍為前幅所見同一葉空框與背透。左面改揭出內封棕紙、折痕與尾端墨記。",
+      "boundaries": "右框及書頁邊在，左裱紙露折邊，最左下封板與右下襯紙各見墨痕。",
+      "observation": "左襯紙近底有數個獨立筆痕，暫留位置未判數字或文字。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 0
+        },
+        {
+          "side": "L",
+          "text_column_count": 0
+        }
+      ],
+      "image_readings": [
+        {
+          "evidence_id": "f046-e01",
+          "location": "右外側版心",
+          "side": null,
+          "column_order": null,
+          "reading": "桑韓醫談",
+          "status": "read_from_image"
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "image_sha256": "19580da38816fd4b3405e51eee9a49b8327e46e82c7c9d58c628366e76665923",
+      "layout": "棕色封底，左側裝線及三處可見橫向線，右外色卡。",
+      "boundaries": "書皮四邊完整入鏡，右中下小斑剝落。",
+      "observation": "無題籤，只有封面材料與裝訂。",
+      "surfaces": [
+        {
+          "side": "R",
+          "text_column_count": 0
+        },
+        {
+          "side": "L",
+          "text_column_count": 0
+        }
+      ],
+      "image_readings": []
+    }
+  ],
+  "changes": [
+    {
+      "unit": "f004-r-c02",
+      "frame": 4,
+      "image_sha256": "cfe2a13eedadb0c2e8860ce048f145c476312769ada00e6ef8f204b2a90289dc",
+      "before": "識醫道者也兒曹繼承者謹之",
+      "after": "識醫道者也兒曹繼家志謹之",
+      "reason": "幅四右第二欄下，繼下字上有宀和下方連尾，末字為志，與相鄰者字之筆勢不同。"
+    },
+    {
+      "unit": "f019-r-c01",
+      "frame": 19,
+      "image_sha256": "594b57b486ff3307f517152ba1e5d3df63aad902c7986c7d82e8d0aca6498601",
+      "before": "有二其一曰因飮食勞倦有上中焦之陽氣虛",
+      "after": "有三其一曰因飮食勞倦有上中焦之陽氣虛",
+      "reason": "右第一欄上方有字下清楚可見三道平行橫畫。"
+    },
+    {
+      "unit": "f022-r-c03",
+      "frame": 22,
+      "image_sha256": "79d5444b43e020487cc13cdc7cd7c57cc99942974739eeec660606986ba0d404",
+      "before": "以東垣老人補脾補腎之格言出焉龔氏曰人",
+      "after": "以東垣老人補腎補脾之格言出焉龔氏曰人",
+      "reason": "右第三欄東垣老人下，兩組的原刻次序為補腎、補脾。"
+    },
+    {
+      "unit": "f041-r-c09",
+      "frame": 41,
+      "image_sha256": "76a9b64acff5c27663e4d73c98c522c0311308e2c46c4a75d146fc3222d0264c",
+      "before": "問聞無胃氣者雖參附不能剋化故死是",
+      "after": "問僕聞無胃氣者雖參附不能剋化故死是",
+      "reason": "右末欄問和聞之間另嵌約半大字的「僕」。初錄只抄兩個大字。"
+    },
+    {
+      "unit": "f042-r-c04",
+      "frame": 42,
+      "image_sha256": "ece4d60103b53f7f4ac4b4ca39365252f828fb7470f3f9f4a54b3fc7438edf6d",
+      "before": "膈予以為此婦必到秋臥床是虛證不受補者",
+      "after": "屬予以為此婦必到秋臥床是虛證不受補者",
+      "reason": "右第四欄起端字左邊非月，屍形內含蜀式折筆，讀屬。"
+    },
+    {
+      "unit": "f044-r-c04",
+      "frame": 44,
+      "image_sha256": "d491dfeab57c7052e80d824f8c4b1c08201f0f3d4f3862e34244ecdc876cb0ef",
+      "before": "其三子對論者需予其跋予不",
+      "after": "與三子討論者需予其跋予不",
+      "reason": "跋的右四欄始字有與左右兩爪筆跡，論前字左從言、右從寸。"
+    }
+  ],
+  "illustrations": [
+    {
+      "frame": 7,
+      "image_sha256": "1f64b65df0d3d4fbdcb2006e8d8789e64661a8bbedeeab9e4eb828756da12d11",
+      "side": "right",
+      "bbox_xyxy_px_approx": [
+        2375,
+        900,
+        3255,
+        2542
+      ],
+      "description": "右葉靠內的木刻植物圖，見葉、花與根形。"
+    },
+    {
+      "frame": 8,
+      "image_sha256": "7f23067349a1fa801ad2d74de23e2862ad566549806380ff8d666a03e7ad18d6",
+      "side": "right",
+      "bbox_xyxy_px_approx": [
+        2835,
+        881,
+        3504,
+        2490
+      ],
+      "description": "右葉靠外的木刻植物圖，見葉、下垂花形與根形。"
+    }
+  ]
+}

@@ -7,10 +7,10 @@
     "source": "https://hdl.handle.net/2324/4705820",
     "manifest": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/1/820/4705820.json",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "47幅逐幅回圖盤點，另讀問答、人名、卷界、照護記錄及刊記，依原圖採用 6 項訂正。覆核為逐幅選讀。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "All 47 images received a separate inventory and selected readings of dialogue, names, volume boundaries, care records and the colophon. 6 image-supported changes are documented. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -277,7 +277,7 @@
             {
               "id": "f004-r-c02",
               "role": "body",
-              "text": "識醫道者也兒曹繼承者謹之",
+              "text": "識醫道者也兒曹繼家志謹之",
               "language": "lzh"
             },
             {
@@ -708,7 +708,20 @@
         }
       ],
       "annotation_records": [],
-      "illustrations": []
+      "illustrations": [
+        {
+          "frame": 7,
+          "image_sha256": "1f64b65df0d3d4fbdcb2006e8d8789e64661a8bbedeeab9e4eb828756da12d11",
+          "side": "right",
+          "bbox_xyxy_px_approx": [
+            2375,
+            900,
+            3255,
+            2542
+          ],
+          "description": "右葉靠內的木刻植物圖，見葉、花與根形。"
+        }
+      ]
     },
     {
       "image": 8,
@@ -808,7 +821,20 @@
         }
       ],
       "annotation_records": [],
-      "illustrations": []
+      "illustrations": [
+        {
+          "frame": 8,
+          "image_sha256": "7f23067349a1fa801ad2d74de23e2862ad566549806380ff8d666a03e7ad18d6",
+          "side": "right",
+          "bbox_xyxy_px_approx": [
+            2835,
+            881,
+            3504,
+            2490
+          ],
+          "description": "右葉靠外的木刻植物圖，見葉、下垂花形與根形。"
+        }
+      ]
     },
     {
       "image": 9,
@@ -2516,7 +2542,7 @@
           "units": [
             {
               "id": "f019-r-c01",
-              "text": "有二其一曰因飮食勞倦有上中焦之陽氣虛",
+              "text": "有三其一曰因飮食勞倦有上中焦之陽氣虛",
               "role": "body",
               "language": "lzh",
               "original_x_approx_px": 3528
@@ -3066,7 +3092,7 @@
             },
             {
               "id": "f022-r-c03",
-              "text": "以東垣老人補脾補腎之格言出焉龔氏曰人",
+              "text": "以東垣老人補腎補脾之格言出焉龔氏曰人",
               "role": "body",
               "language": "lzh",
               "original_x_approx_px": 3226
@@ -6379,7 +6405,7 @@
             },
             {
               "id": "f041-r-c09",
-              "text": "問聞無胃氣者雖參附不能剋化故死是",
+              "text": "問僕聞無胃氣者雖參附不能剋化故死是",
               "role": "question",
               "language": "lzh",
               "original_x_approx_px": 2477
@@ -6522,7 +6548,7 @@
             },
             {
               "id": "f042-r-c04",
-              "text": "膈予以為此婦必到秋臥床是虛證不受補者",
+              "text": "屬予以為此婦必到秋臥床是虛證不受補者",
               "role": "body",
               "language": "lzh",
               "original_x_approx_px": 3182
@@ -6824,7 +6850,7 @@
             },
             {
               "id": "f044-r-c04",
-              "text": "其三子對論者需予其跋予不",
+              "text": "與三子討論者需予其跋予不",
               "role": "postface",
               "language": "lzh",
               "original_x_approx_px": 2957
@@ -7104,7 +7130,9 @@
     "text_surfaces": 87,
     "physical_columns": 711,
     "frame_notes": 130,
-    "text_units": 729
+    "text_units": 729,
+    "illustrations_located_in_review": 2,
+    "reviewed_image_frames": 47
   },
   "source_reference": {
     "catalogue": "https://hdl.handle.net/2324/4705820",

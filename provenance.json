@@ -3,7 +3,7 @@
   "image_viewer": "https://catalog.lib.kyushu-u.ac.jp/image/manifest/1/820/4705820.json",
   "source_rights": "https://ndlsearch.ndl.go.jp/books/R100000092-I2324_4705820",
   "shelfmark": "九州大學醫學圖書館 ソ-21（九大 4705820，NIJL 100348068）",
-  "data_version": "0.1.0",
+  "data_version": "0.2.0",
   "image_inventory": [
     {
       "image": 1,
@@ -66,7 +66,20 @@
       "sha256": "1f64b65df0d3d4fbdcb2006e8d8789e64661a8bbedeeab9e4eb828756da12d11",
       "scan_width": 4500,
       "scan_height": 3003,
-      "illustrations": []
+      "illustrations": [
+        {
+          "frame": 7,
+          "image_sha256": "1f64b65df0d3d4fbdcb2006e8d8789e64661a8bbedeeab9e4eb828756da12d11",
+          "side": "right",
+          "bbox_xyxy_px_approx": [
+            2375,
+            900,
+            3255,
+            2542
+          ],
+          "description": "右葉靠內的木刻植物圖，見葉、花與根形。"
+        }
+      ]
     },
     {
       "image": 8,
@@ -75,7 +88,20 @@
       "sha256": "7f23067349a1fa801ad2d74de23e2862ad566549806380ff8d666a03e7ad18d6",
       "scan_width": 4500,
       "scan_height": 3003,
-      "illustrations": []
+      "illustrations": [
+        {
+          "frame": 8,
+          "image_sha256": "7f23067349a1fa801ad2d74de23e2862ad566549806380ff8d666a03e7ad18d6",
+          "side": "right",
+          "bbox_xyxy_px_approx": [
+            2835,
+            881,
+            3504,
+            2490
+          ],
+          "description": "右葉靠外的木刻植物圖，見葉、下垂花形與根形。"
+        }
+      ]
     },
     {
       "image": 9,
